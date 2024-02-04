@@ -5,3 +5,9 @@ Author: Andres
 
 
 <img src="Media/Otto%2001.png" alt="Sample Image" width="400" height="200">
+
+
+
+<img src="Media/Otto%2001.png" alt="Otto" display="block" margin-left="auto"  margin-right="auto" width="50%">
+
+
