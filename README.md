@@ -4,10 +4,11 @@ A small biped 3D-printed robot winer of "Genios Giner" 2017 High School robotics
 Author: Andres
 
 
-<img src="Media/Otto%2001.png" alt="Sample Image" width="400" height="200">
+<div align="center">
 
+<img src="Media/Otto%2001.jpg" alt="Otto" display="block" margin-left="auto"  margin-right="auto" width="50%">
 
+</div>
 
-<img src="Media/Otto%2001.png" alt="Otto" display="block" margin-left="auto"  margin-right="auto" width="50%">
 
 
