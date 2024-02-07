@@ -1,7 +1,15 @@
 # Biped_Robot_OTTO
 A small biped 3D-printed robot winer of "Genios Giner" 2017 High School robotics competition.
 
-Author: Andres
+
+IES - Fco Giner de los Rios High school
+Genios Giner Prices
+Author: Andrés 
+Academic year: 2016/2017
+
+// https://drive.google.com/file/d/1OxGcLx1uNJm8CmWW5YzquF4s2rOWu30E/view?usp=sharing
+
+// https://www.thingiverse.com/thing:2083489
 
 
 <div align="center">
@@ -13,7 +21,7 @@ Author: Andres
 <p>Gala Genios Giner 2017</p>
 <br>
 
-<img src="Media/OttoApp.jpg" alt="Otto" display="block" margin-left="auto"  margin-right="auto" width="50%">
+<img src="Media/OttoApp.jpg" alt="Otto" display="block" margin-left="auto"  margin-right="auto" width="25%">
 <p>OTTO App</p>
 <br>
 
