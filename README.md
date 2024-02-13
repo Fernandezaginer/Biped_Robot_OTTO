@@ -2,10 +2,10 @@
 A small biped 3D-printed robot winer of "Genios Giner" 2017 High School robotics competition.
 
 
-IES - Fco Giner de los Rios High school
-Genios Giner Prices
-Author: Andrés 
-Academic year: 2016/2017
+IES - Fco Giner de los Rios High school <br>
+Genios Giner Prices <br>
+Author: Andrés <br>
+Academic year: 2016/2017 <br>
 
 Video: https://drive.google.com/file/d/1OxGcLx1uNJm8CmWW5YzquF4s2rOWu30E/view?usp=sharing
 
