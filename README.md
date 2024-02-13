@@ -7,9 +7,9 @@ Genios Giner Prices
 Author: Andrés 
 Academic year: 2016/2017
 
-// https://drive.google.com/file/d/1OxGcLx1uNJm8CmWW5YzquF4s2rOWu30E/view?usp=sharing
+Video: https://drive.google.com/file/d/1OxGcLx1uNJm8CmWW5YzquF4s2rOWu30E/view?usp=sharing
 
-// https://www.thingiverse.com/thing:2083489
+Thingiverse https://www.thingiverse.com/thing:2083489
 
 
 <div align="center">
